@@ -10,6 +10,6 @@ To download JATE, simply click install on the upper left side of the app or on t
 
 ## Usage
 
-To visit the website, [click here](link goes here)! Simply type anything you'd like in the text editor, and JATE will store your notes for future reference.
+To visit the website, [click here](https://calm-oasis-46520.herokuapp.com/)! Simply type anything you'd like in the text editor, and JATE will store your notes for future reference.
 
 ![JATE text editor](./images/JATE.png)
